@@ -724,3 +724,4 @@
 {"action":{"alias":{"address":"N\u0000sourcecred\u0000discord\u0000MEMBER\u0000user\u0000781671325550772235\u0000","description":"discord/Kert#5855"},"identityId":"Gx8wDEqfNXHxvoKvpbQNPg","type":"ADD_ALIAS"},"ledgerTimestamp":1606779822220,"uuid":"1P3OdBUQZNpwaxJbh3by7A","version":"1"}
 {"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000soxgzlf0yRGXZ6MEyrcJQA\u0000","aliases":[],"id":"soxgzlf0yRGXZ6MEyrcJQA","name":"SourceCred","subtype":"PROJECT"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1606779822383,"uuid":"jqvZ1T8XJ8DUW6TjjMmzXw","version":"1"}
 {"action":{"identityId":"soxgzlf0yRGXZ6MEyrcJQA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1606779822383,"uuid":"LCYWh6WdQgp0D1yKLgzJEA","version":"1"}
+{"action":{"identityId":"p5NiNF0MdTjP61asvNVppg","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1606781002034,"uuid":"3KmpsaNFW9PyDIG0HJRCQQ","version":"1"}
